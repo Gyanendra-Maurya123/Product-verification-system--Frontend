@@ -1,0 +1,16 @@
+<!-- public/logo.svg -->
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    d="M32 2L12 12V32C12 47.2 23.8 59.2 32 62C40.2 59.2 52 47.2 52 32V12L32 2Z"
+    fill="#3B82F6"
+  />
+  <path
+    d="M28 32L22 28L20 40L28 36L44 48L46 36L28 32Z"
+    fill="#FACC15"
+  />
+</svg>
